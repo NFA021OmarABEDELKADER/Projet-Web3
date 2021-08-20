@@ -1,5 +1,6 @@
 # Projet-Web3
 Ce repository est pour le projet de web 3 avec Dr Abdallah el asmar CNAM LIBAN
+
 **Database Name: uni**
 
 **Developed by OMARABDELKADER**
@@ -16,5 +17,11 @@ Password: 123
 
 Username: robinson
 Password: 123
+
+**Student Login Details 
+Student ID: 14103053
+Password: 123
+
+
 
 
