@@ -3,14 +3,14 @@ Ce repository est pour le projet de web 3 avec Dr Abdallah el asmar CNAM LIBAN
 
 **Database Name: uni**
 
-**Developed by OMARABDELKADER**
+**Developed by OMARABEDELKADER**
 
 **Recommended PHP Version 5.6.3, 7.4.12**
 
 
-**Department Heads Login Details**
+**Admin Login Details**
 
-Username: Informatique
+Username: admin
 Password: 123
 
 **Faculty Login Details**
@@ -18,9 +18,11 @@ Password: 123
 Username: robinson
 Password: 123
 
-**Student Login Details 
-Student ID: 14103053
+**Student Login Details**
+
+Username: 14103053
 Password: 123
+
 
 
 
